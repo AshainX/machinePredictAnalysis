@@ -4,6 +4,13 @@ This repository contains a REST API built using FastAPI for predicting the machi
 
 ## Clone the Repository
 
+Check if git is installed by going into your terminal or command prompt and type 
+```bash
+ git --version
+```
+if it shows "git version 2.47.1.windows.2" etc then its installed otherwise install it from below website according to your distro you are using
+[Install GIT Link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
 To clone the repository, run the following command in your terminal:
 
 ```bash
