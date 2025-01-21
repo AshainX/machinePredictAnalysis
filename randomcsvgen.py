@@ -1,5 +1,8 @@
 '''
+
 DATA DESCRIPTION :
+
+Generated random numbers and kept into a .csv file for data training
 
     machine_id = Random machine ID like M-1 M-2.... upto M-50
     temperature = taking Temps in the range 50-120
